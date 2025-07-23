@@ -41,8 +41,8 @@ The goal of this project is to build models predicting the home improvement sale
   - [Home Improvement Research Center](https://www.hiri.org/blog/home-improvement-market-size-outlook)
     - DIY vs Professional Market Growth
     - Building product category trends(lumber, paint, etc.)
-  - Market Performance
-     - [Market Statistics](https://www.statista.com/topics/1732/home-improvement/#topicOverview)
+- Market Performance
+  - [Market Statistics](https://www.statista.com/topics/1732/home-improvement/#topicOverview)
       
 
      
