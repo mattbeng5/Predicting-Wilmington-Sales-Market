@@ -26,5 +26,24 @@ The goal of this project is to build models predicting the home improvement sale
 - 68% of homes face wildfire risks
 - 65% of homes face risks of severe wind events
 
+### Potential Indicators
+- Economic (Current and Forward Looking):
+  - consumer spending on home improvement supplies
+  - new homes being built, homes being sold
+  - interest rates
+  - disposable income, income trends
+  - [Federal Interest Rate Forecast](https://econforecasting.com/forecast/ffr)
+  - construction costs, housing inventory
+- Industry-specific
+  - [LIRA](https://www.jchs.harvard.edu/research-areas/remodeling/lira)
+  - [Remodeling Futures Program](https://www.jchs.harvard.edu/research/remodeling-futures)
+  - [Homeowner Improvement Expenditures by Project Type](https://www.jchs.harvard.edu/iah-2025-homeowner-expenditures-by-project)
+  - [Home Improvement Research Center](https://www.hiri.org/blog/home-improvement-market-size-outlook)
+    - DIY vs Professional Market Growth
+    - Building product category trends(lumber, paint, etc.)
+  - Market Performance
+     - [Market Statistics](https://www.statista.com/topics/1732/home-improvement/#topicOverview)
+      
+
      
        
